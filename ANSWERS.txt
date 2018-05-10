@@ -1,4 +1,4 @@
-1. London Heathrow Airport
-2. Aeroflot
-4. Japan Airlines Flight 123 with 520 fatalities :(
-5. Aeroflot with 4,033 fatalities :(
+1. London Heathrow Airport with 9 accidents
+2. Aeroflot with 53 accidents
+4. Japan Airlines Flight 123 with 520 fatalities
+5. Aeroflot with 4,033 fatalities
